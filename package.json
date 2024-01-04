@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "fund": "^1.0.0",
+    "ionic-native": "https://github.com/ionic-team/ionic-native/tarball/v3.5.0",
+    "run": "^1.5.0",
+    "start": "^5.1.0"
+  },
+  "name": "1-node-farm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
