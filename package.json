@@ -3,15 +3,24 @@
     "fund": "^1.0.0",
     "ionic-native": "https://github.com/ionic-team/ionic-native/tarball/v3.5.0",
     "run": "^1.5.0",
+    "slugify": "^1.6.6",
     "start": "^5.1.0"
   },
-  "name": "1-node-farm",
+  "name": "node-farm",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Aarão de Sousa",
   "license": "ISC",
-  "description": ""
+  "description": "aprendendo node.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaraoSousa/node-farm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AaraoSousa/node-farm/issues"
+  },
+  "homepage": "https://github.com/AaraoSousa/node-farm#readme"
 }
