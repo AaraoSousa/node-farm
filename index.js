@@ -77,7 +77,7 @@ const server = http.createServer((req, res) => {
 //not found         
     } else{
         res.writeHead(404, {
-            'Content-type': 'text/html',
+            'Content-type': "text/html",
             'my-own-header': 'hello-world'
         });
          res.end('<h1>Page not found</h1>');
